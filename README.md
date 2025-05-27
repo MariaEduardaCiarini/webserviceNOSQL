@@ -8,3 +8,15 @@ Este projeto foi desenvolvido como parte do curso do professor [Nélio Alves](ht
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
+
+
+
+## 🧠 Aprendizados
+
+- Integração do Spring Boot com MongoDB
+- Criação de REST APIs com Spring Web
+- Manipulação de documentos NoSQL
+- Boas práticas com padrão de camadas
+
+---
+
